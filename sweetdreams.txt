@@ -1,5 +1,6 @@
 # Welcome to Sonic Pi v2.11.1
 # Sweet Dreams - Zoe Chang
+# YouTube: https://youtu.be/qVb_uFew-08
 
 live_loop :beat do
   sample :loop_industrial, beat_stretch: 1, amp: 2
