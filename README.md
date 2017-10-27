@@ -1,2 +1,2 @@
-# musicodes
+# muzicodes
 Zoe's audio programming repo
